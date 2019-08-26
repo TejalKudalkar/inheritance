@@ -21,3 +21,4 @@ void main()
 	 cout<<"\n reverse is="<<s;
 	 getch();
 }
+#this program is only for reversing the string
